@@ -13,7 +13,7 @@ public class prime {
 		else
 		System.err.println(input+" is not a prime number");
 
-		sc.close();
+//		sc.close();
 
 	}
 
