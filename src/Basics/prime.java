@@ -14,7 +14,7 @@ public class prime {
 		System.err.println(input+" is not a prime number");
 
 //		sc.close();
-
+//
 	}
 
 	private static boolean findPrime(int input) {
